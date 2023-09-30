@@ -1,0 +1,1 @@
+class PessoaException implements Exception {}
