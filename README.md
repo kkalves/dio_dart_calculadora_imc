@@ -1,2 +1,2 @@
-# dio_dart_calculadora_imc
+# Calculadora IMC
 Este projeto faz parte do desafio de código do bootcamp de flutter da plataforma de ensino DIO.
